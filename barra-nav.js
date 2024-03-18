@@ -1,0 +1,1 @@
+console.log("BARRA NAV CREATE");
