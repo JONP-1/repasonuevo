@@ -1,1 +1,2 @@
 console.log("TRABAJANDO EN EL FOOTER");
+console.log("CORRIGIENDO EL FOOTER");
